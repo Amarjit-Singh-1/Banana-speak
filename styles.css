@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap");
 
 :root {
   --primary-color: #ffd800;
@@ -7,9 +7,9 @@
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Yusei Magic", sans-serif;
   margin: 0px;
-  color: black;
+  color: rgba(0, 0, 0, 0.863);
 }
 
 .container {
